@@ -6,7 +6,7 @@ File ghi chép tình hình hoạt động của chuỗi cửa hàng trong tháng
 - Brand: thương hiệu đồ chơi được bán
 - Category Code: danh mục đồ chơi
 - Category ID: id của danh mục đồ chơi
-- Event time: thời gian tại thời điểm khách hàng thực hiện hành động
+- Event time: thời điểm khách hàng thực hiện hành động
 - Event type: hành động của khách hàng. Có 3 loại: view/cart/purchase
 - Product ID: id sản phẩm
 - User ID: id khách hàng
