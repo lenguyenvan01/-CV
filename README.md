@@ -1,5 +1,5 @@
 ## Customers insight analysis
-Dự án nhỏ này khám phá các chỉ số về tình hình kinh doanh được ghi nhận tại 1 chuỗi cửa hàng đồ chơi dành cho trẻ em. Qua các phân tích từ đó có cái nhìn tổng quan hơn về tình hình kinh doanh của doanh nghiệp và qua đó có thể cải thiện tình hình kinh doanh.
+Dự án nhỏ này phân tích hàng vi người tiêu dùng thông qua việc khám phá các chỉ số về tình hình kinh doanh được ghi nhận tại 1 chuỗi cửa hàng đồ chơi dành cho trẻ em. Qua các phân tích từ đó có cái nhìn tổng quan hơn về tình hình kinh doanh của doanh nghiệp và qua đó có thể cải thiện tình hình kinh doanh.
 
 ### Mô tả file
 File ghi chép tình hình hoạt động của chuỗi cửa hàng trong tháng 3 năm 2020. Số liệu được chuẩn bị ở dạng csv với 9 cột như sau:
